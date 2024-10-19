@@ -1,6 +1,6 @@
 Htmll
-echo "# Global" >> README.md
-git init
+echo "# Global" >> README.m
+ffff6 2222
 git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/ILeoNext/Global.git
